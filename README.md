@@ -1,4 +1,4 @@
-# Coding for Lawyers
+# Coding 4 Lawyers
 Bienvenido al repositorio oficial del curso "Coding for Lawyers". Este curso está diseñado para introducir a profesionales del derecho en los conceptos básicos de la programación utilizando Python, con un enfoque en aplicaciones y casos prácticos relevantes para el ámbito legal.
 
 ## Acerca del Curso

@@ -46,7 +46,7 @@ El curso está organizado en **seis módulos progresivos**. Se pueden impartir e
 | **5** | [C4L_5 — Ejercicios consolidados](C4L_5_Ejercicios.ipynb) | Casos prácticos que combinan lo aprendido en módulos 1-3 |
 | **6** | [C4L_6 — Proyecto final integrador](C4L_6_Ejercicio_final.ipynb) | Sistema de gestión legal: alertas, informes, visualización |
 
-> **Nota sobre el módulo 4:** es **introductorio**. La versión completa (técnicas avanzadas de prompting, *function calling*, agentes, RAG, integración con APIs y compliance) se ofrecerá como **curso específico de pago**.
+> **Nota sobre el módulo 4:** es **introductorio**. La versión completa (técnicas avanzadas de prompting, *function calling*, agentes, RAG, integración con APIs y compliance) se ofrecerá como **curso específico**.
 
 ---
 
@@ -168,7 +168,7 @@ Estamos abiertos a contribuciones para mejorar los materiales del curso. Si tien
 
 ## Próximamente
 
-- **Curso completo de IA aplicada al derecho** (de pago): técnicas avanzadas de prompt engineering, *function calling*, agentes, RAG, integración con APIs y compliance jurídico.
+- **Curso completo de IA aplicada al derecho**: técnicas avanzadas de prompt engineering, *function calling*, agentes, RAG, integración con APIs y compliance jurídico.
 - **Coding for Lawyers — nivel intermedio**: testing, control de versiones con Git, despliegue de pequeñas herramientas internas.
 
 ---

@@ -151,18 +151,6 @@ Depende del ritmo. Como referencia: cada módulo está pensado para una sesión 
 4. Si nada funciona, abre un *issue* en este repositorio.
 </details>
 
----
-
-## Contribuciones
-
-Estamos abiertos a contribuciones para mejorar los materiales del curso. Si tienes sugerencias o correcciones, envía un *pull request* o abre un *issue* en este repositorio.
-
-Áreas donde la ayuda es especialmente bienvenida:
-
-- Nuevos ejercicios prácticos basados en casos reales.
-- Correcciones de erratas o aclaraciones.
-- Traducciones a otros idiomas.
-- Materiales complementarios (vídeos, *cheatsheets*, etc.).
 
 ---
 

@@ -46,7 +46,7 @@ El curso está organizado en **seis módulos progresivos**. Se pueden impartir e
 | **5** | [C4L_5 — Ejercicios consolidados](C4L_5_Ejercicios.ipynb) | Casos prácticos que combinan lo aprendido en módulos 1-3 |
 | **6** | [C4L_6 — Proyecto final integrador](C4L_6_Ejercicio_final.ipynb) | Sistema de gestión legal: alertas, informes, visualización |
 
-> **Nota sobre el módulo 4:** es **introductorio**. La versión completa (técnicas avanzadas de prompting, *function calling*, agentes, RAG, integración con APIs y compliance) se ofrecerá como **curso específico**.
+> **Nota sobre el módulo 4:** es **introductorio**. Se centra en dar una buena foto de conjunto sobre IA, LLMs y prompt engineering aplicados al ámbito jurídico, con bases sólidas para empezar a usar estas herramientas con criterio.
 
 ---
 
@@ -133,7 +133,7 @@ En **castellano de España**. Los términos técnicos en inglés (los que se usa
 <details>
 <summary><strong>¿Puedo usar el material para impartir mi propia formación?</strong></summary>
 
-El material es de uso libre con atribución. Si lo usas en formación corporativa, ponte en contacto para coordinar.
+El material es de uso libre con atribución.
 </details>
 
 <details>
@@ -154,17 +154,9 @@ Depende del ritmo. Como referencia: cada módulo está pensado para una sesión 
 
 ---
 
-## Próximamente
-
-- **Curso completo de IA aplicada al derecho**: técnicas avanzadas de prompt engineering, *function calling*, agentes, RAG, integración con APIs y compliance jurídico.
-- **Coding for Lawyers — nivel intermedio**: testing, control de versiones con Git, despliegue de pequeñas herramientas internas.
-
----
-
 ## Licencia y contacto
 
 - **Autor**: Marcos Sanz Latorre.
 - **Email**: [marcossanzlatorre@gmail.com](mailto:marcossanzlatorre@gmail.com).
-- **LinkedIn**: para seguir nuevos materiales y la próxima edición de cursos.
 
 > Si este curso te ha resultado útil, **dale una ⭐ al repositorio** y compártelo con compañer@s del sector.
